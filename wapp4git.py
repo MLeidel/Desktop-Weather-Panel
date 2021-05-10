@@ -1,6 +1,5 @@
 '''
-this file: wapp.py
-YAS file: weather.tkx
+wapp.py
 Author: Michael Leidel
 Date: Jan 13 2021
 '''
