@@ -17,8 +17,8 @@ and place it into the code.
 
 The panel has a caption you use to position it onto your screen.
 
-The "Toggle Exit" option in the context menu toggles the caption  
-for a cleaner look.
+The "Toggle Exit" option in the context menu toggles the  
+application's caption per execution.  
 
 Python3 Modules  
 ```python
