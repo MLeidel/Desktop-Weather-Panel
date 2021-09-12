@@ -1,7 +1,10 @@
 '''
 wapp.py
-Author: Michael Leidel
-Date: Jan 13 2021
+Michael Leidel
+Date: Jan 2021
+Places a windowless panel on desktop
+with current weather stats.
+Updates itself every NN minutes.
 '''
 
 from tkinter import *
